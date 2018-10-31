@@ -1,7 +1,7 @@
 # Teixidoetal_Functional_Diversity_NatComms
 Data and Code (R scripts) for Teixido et al. Functional biodiversity loss along natural CO2 gradients. Nature Communications
 
-https://doi.org/10.5281/zenodo.1475464
+http://doi.org/10.5281/zenodo.1475464
 
 The analysis works following this order: 
 1_Functional_Presence.R,

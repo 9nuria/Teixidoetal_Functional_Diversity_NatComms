@@ -4,7 +4,7 @@ Data and Code (R scripts) for Teixido et al. Functional biodiversity loss along 
 http://doi.org/10.5281/zenodo.1475464
 
 The analysis works following this order: 
-1_Functional_Presence.R,
+:file_folder: 1_Functional_Presence.R,
 2_Functional_Abundances.R 
 3_Sensitivity.R
 
